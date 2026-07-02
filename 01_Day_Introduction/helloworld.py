@@ -45,7 +45,7 @@ print(list)
 
 print(list[1:])       # slice: from second item to end
 
-#EXAMPLES OF USING LIST 
+#EXAMPLES OF USING DICTIONARY  
 print(type({'name': 'Asabeneh'}))  # Dictionary
 
 person = {'name': 'Rizzo', 
